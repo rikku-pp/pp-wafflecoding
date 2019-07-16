@@ -1,5 +1,6 @@
  # Waffle Coding
  _`Have waffles and a beginner guide to CSS and styling!`_
+ 
  ![waffle-heart](https://cdn.glitch.com/project-avatar/990280b7-f679-42a2-8ecf-561616765eac.png)
 
 [Introduction Slides from the workshop](https://cdn.glitch.com/990280b7-f679-42a2-8ecf-561616765eac%2FV%C3%A5ffelkodning%20rev2.pdf?1521985253945)
